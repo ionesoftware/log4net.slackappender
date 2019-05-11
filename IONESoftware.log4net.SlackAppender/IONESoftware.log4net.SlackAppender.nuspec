@@ -11,5 +11,7 @@
     <releaseNotes>First version - here we go.</releaseNotes>
     <copyright>Copyright, IONE Software Sp. z o.o. [Ltd] 2019</copyright>
     <tags>log4net slack appender slackappender</tags>
+    <projectUrl>https://github.com/ionesoftware/log4net.slackappender</projectUrl>
+    <license type="expression">MIT</license>
   </metadata>
 </package>

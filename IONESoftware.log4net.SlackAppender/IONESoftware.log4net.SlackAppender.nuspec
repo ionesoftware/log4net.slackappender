@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First version - here we go.</releaseNotes>
+    <copyright>Copyright, IONE Software Sp. z o.o. [Ltd] 2019</copyright>
+    <tags>log4net slack appender slackappender</tags>
+  </metadata>
+</package>

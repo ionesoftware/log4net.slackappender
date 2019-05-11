@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("IONESoftware.log4net.SlackAppender")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("An appender for log4net loggin library to post logging events to Slack.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("IONE Software Sp. z o.o. [Ltd]")]
 [assembly: AssemblyProduct("IONESoftware.log4net.SlackAppender")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("0.1.0.0")]
+[assembly: AssemblyFileVersion("0.1.0.0")]

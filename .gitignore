@@ -1,0 +1,6 @@
+packages/
+.vs/
+[Oo]bj/
+[Bb]in/
+*.user
+.DS_Store
